@@ -5,7 +5,7 @@
 <p>NRP     : 3122600026</p>
 
 <div>
-    <img src="./asset/1.png"/>
+    <img src="../asset/1.png"/>
 </div>
 
 
