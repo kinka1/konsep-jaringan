@@ -51,7 +51,7 @@ Saat kita menggunakan Stream dari Telnet, kita dapat melihat bahwa request dan r
 mari kita ubah lagi sample menjadi dns.cap dan lihat UDP Stream
 
 <div>
-    <img src="../asset/dns1.png"/>
+    <img src="../asset/dns.png"/>
 </div>
 
 Ada beberapa hal yang bisa kita amati di dns.cap:
