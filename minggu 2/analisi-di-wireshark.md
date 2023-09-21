@@ -31,6 +31,7 @@ FLow Graph Window berfungsi untuk menampilkan koneksi yang terjadi diantara kedu
     <img src="../asset/tcp4.png"/>
 </div>
 Tahap ini terjadi pada tiga packet awal. Berikut adalah rincian pada proses ini:
+
 - pada detik 0.000000 clien engirim segment SYN(Synchronize Sequence Number) kepada server dengan sequence number 0.
 - Pada detik 0.9113, server merespon kepada client berupa segment SYN-ACK dengan sequence number 0 serta acknowledgment numbr 1 yang berarti menyetujui koneksi dari client serta memberi sinyal pada client untuk mengirim segment selanjutnya dengan seq number 1.
 - Pada detik 0.9113, client merespon server berupa persetujuan(ACK) dengan seq number 1 sesuai sinyal dari server.
@@ -42,6 +43,7 @@ Setelah 3 tahap tersebut, koneksi client-server sudah terjalin.
     <img src="../asset/tcp5.png"/>
 </div>
 Berikut adalah rincian dari proses transfer data:
+
 - Pada detik 0.9113, client mengirim segment dengan panjang 479 bits serta membawa flag PSH yang berarti menginformasikan kepada penerima(server) untuk mengirimkan data kepada client. Selain itu, client juga mengirimkan ACK dengan value 1 yang menginformasikan kepada server untuk mengirimkan segment dengan seq number 1.
 - Pada detik 1.4721, server mengirim 2 segment client dengan seq number 1. Segment ini berisi data sepanjang 1380 bits. Server juga mengirim ACK dengan value 480, yang berarti client akan mengirim dengan seq number 480 pada segment selanjutnya. Hal ini dikarenakan sebelumnya client telah mengirim segment dengan panjang 479 bits.
 
@@ -49,6 +51,7 @@ Berikut adalah rincian dari proses transfer data:
 <div>
     <img src="../asset/tcp6.png"/>
 </div>
+
 - pada detik ke 17.905747 server mengirimkan flag FIN dengan seq 18365 dan ACK 480 berarti server memulai proses terminasi dan mengharapkan segmen selanjutnya akan dikirim dengan seq 480
 - Pada detik 17.9057, client merespon berupa acknowledgment dengan tujuan menginformasikan kepada server jika FIN sudah diterima. Selanjutnya, FIN juga akan dikirimkan oleh client.
 - Pada detik 30.0632, client juga mengirimkan FIN dengan seq 480 sesuai ack dari server serta menginformasikan pada server jika client juga melakukan terminasi koneksi.
