@@ -268,7 +268,6 @@ Jika terjadi kesalahan dalam penulisan atau pembacaan data, pesan kesalahan dice
 
 Percobaan 1, mengirim data sebanyak 10 dan 50 karakater.
 
-<img src="../../asset/minggu 3/percobaan1.png" />
 
 ## Percobaan 2
 
