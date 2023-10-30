@@ -47,17 +47,22 @@ Pada praktikum kali ini, kita akan menggunakan 1 Route, 6 Switch dan 6 PC pada a
 
 ## Hasil tes ping
 
-- **PC 0 ke PC 1** 
+- **PC 0 ke PC 1**
+<br></br> 
   <img src="../../asset/minggu 9/pc01.png" />
 
 - **PC 0 ke PC 2** 
+<br></br>
   <img src="../../asset/minggu 9/pc02.png" />
 
 - **PC 0 ke PC 3** 
+<br></br>
   <img src="../../asset/minggu 9/pc03.png" />
 
 - **PC 0 ke PC 4** 
+<br></br>
   <img src="../../asset/minggu 9/pc04.png" />
 
 - **PC 0 ke PC 5** 
+<br></br>
   <img src="../../asset/minggu 9/pc05.png" />
