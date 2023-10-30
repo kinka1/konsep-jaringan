@@ -53,11 +53,13 @@ Switch 2:
 ## Hasil Tes ping
 
 - **pc 1 ke pc 2** 
+<br></br>
   <img src="../../asset/minggu 7/pc1-2.png" />
 
 - **pc 1 ke pc 3** 
-
+<br></br>
   <img src="../../asset/minggu 7/pc1-3.png" />
 
 - **pc 1 ke pc 4** 
+<br></br>
   <img src="../../asset/minggu 7/pc1-4.png" />

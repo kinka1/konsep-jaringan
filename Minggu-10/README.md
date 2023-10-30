@@ -1,11 +1,5 @@
 # MikroTik Winbox
 
-    Nama		: Yasir Maarif
-    NRP		: 3122600013
-    Kelas		: 2 D4 Teknik Informatika
-    Mata Kuliah	: Konsep Jaringan
-    Dosen Pengampu	: Dr. Ferry Astika Saputra ST, M.Sc
-
 Winbox adalah sebuah aplikasi berbasis windows yang biasa digunakan untuk konfigurasi mikrotik.
 
 Mikrotik adalah sebuah OS atau perangkat lunak yang bisa digunakan untuk mengubah suatu perangkat komputer menjadi sebuah router jaringan.

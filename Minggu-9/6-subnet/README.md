@@ -3,7 +3,7 @@
 Pada praktikum kali ini, kita akan menggunakan 1 Route, 6 Switch dan 6 PC pada alamat IP publik 12.0.0.0/8.
 
 <div align="center">
-    <img src="assets/nc1.png" width="70%" />
+    <img src="../../asset/minggu 9/nc1.png" width="70%" />
     <p><strong>Gambar:</strong> Packet Tracer</p>
 </div>
 
@@ -48,16 +48,16 @@ Pada praktikum kali ini, kita akan menggunakan 1 Route, 6 Switch dan 6 PC pada a
 ## Hasil tes ping
 
 - **PC 0 ke PC 1** 
-  <img src="./assets/pc01.png" />
+  <img src="../../asset/minggu 9/pc01.png" />
 
 - **PC 0 ke PC 2** 
-  <img src="./assets/pc02.png" />
+  <img src="../../asset/minggu 9/pc02.png" />
 
 - **PC 0 ke PC 3** 
-  <img src="./assets/pc03.png" />
+  <img src="../../asset/minggu 9/pc03.png" />
 
 - **PC 0 ke PC 4** 
-  <img src="./assets/pc04.png" />
+  <img src="../../asset/minggu 9/pc04.png" />
 
 - **PC 0 ke PC 5** 
-  <img src="./assets/pc05.png" />
+  <img src="../../asset/minggu 9/pc05.png" />
