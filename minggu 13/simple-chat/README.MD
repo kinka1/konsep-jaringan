@@ -1,6 +1,5 @@
 # Simple Server Client Response To Another Group
 
-
 ## Server
 
 <div align="center">
