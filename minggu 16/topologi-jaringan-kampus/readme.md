@@ -92,6 +92,3 @@ Berikut adalah contoh topologi jaringan kampus Universitas Pelita Bangsa:
 Arsitektur jaringan kampus yang efektif adalah kunci untuk mendukung kegiatan pendidikan dan administratif. Dengan merancang jaringan yang scalable, aman, dan responsif, institusi dapat memastikan bahwa infrastruktur teknologi memberikan dukungan maksimal bagi seluruh komunitas kampus.
 
 ---
-
-**Referensi:**
-[Topologi Jaringan Kampus UPB](https://puskom.pelitabangsa.ac.id/topologi-jaringan-kampus/)
